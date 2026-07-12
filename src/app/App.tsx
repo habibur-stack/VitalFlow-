@@ -728,7 +728,7 @@ export default function App() {
               className="text-4xl lg:text-5xl font-extrabold text-[#0d1b2a] leading-tight mb-5"
               style={{ fontFamily: "'Bricolage Grotesque', sans-serif" }}
             >
-              Four pillars that change everything
+              Four pillars that change everything is not possible 
             </h2>
             <p className="text-muted-foreground text-lg leading-relaxed">
               Our approach combines precision wellness technology with a
