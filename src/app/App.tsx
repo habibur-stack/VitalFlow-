@@ -472,7 +472,7 @@ export default function App() {
                 Freedom.
               </span>
               <br />
-              <span className="text-white/90">Build a Business</span>
+              <span className="text-white/90">Build a Business i had the people </span>
               <br />
               <span className="text-white/70 text-4xl lg:text-5xl xl:text-6xl">
                 That Fits Your Life.
