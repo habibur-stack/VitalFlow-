@@ -396,7 +396,7 @@ export default function App() {
               onClick={() => scrollTo("contact")}
               className="mt-2 px-5 py-3 rounded-xl bg-emerald-600 text-white text-sm font-semibold text-center"
             >
-              Book Free Consultation  ao now add tgeiu miner 
+              Book Free Consultation  ao now add tgeiu miner , in the mean me i so 
             </button>
           </nav>
         </div>
