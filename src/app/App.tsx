@@ -636,7 +636,7 @@ export default function App() {
                   <p className="text-[10px] text-muted-foreground leading-none mb-0.5">
                     Income Growth
                   </p>
-                  <p className="text-sm font-bold text-[#0d1b2a]">+$2,400/mo</p>
+                  <p className="text-sm font-bold text-[#0d1b2a]">+$2,400/mo </p>
                 </div>
               </motion.div>
 
