@@ -842,7 +842,7 @@ export default function App() {
                 <p className="text-sm text-[#0d1b2a] font-medium leading-snug">
                   Making precision wellness technology accessible to everyone,
                   while creating real financial opportunity for those who share
-                  our vision. the genaral sho uou ned 
+                  our vision. 
                 </p>
               </div>
             </Reveal>
