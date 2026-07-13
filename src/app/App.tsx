@@ -1048,7 +1048,7 @@ export default function App() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <Reveal className="text-center max-w-2xl mx-auto mb-16">
             <p className="text-emerald-600 text-xs font-semibold uppercase tracking-[0.2em] mb-4">
-              The VitalFlow Advantage.  in cants this
+              The VitalFlow Advantage.  
             </p>
             <h2
               className="text-4xl lg:text-5xl font-extrabold text-[#0d1b2a] leading-tight"
