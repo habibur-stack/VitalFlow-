@@ -1030,7 +1030,7 @@ export default function App() {
 
           <Reveal delay={0.3} className="text-center">
             <p className="text-white/35 text-xs mb-6">  
-              Results vary. Income claims represent potential, not guarantees. See income disclosure statement. need some yhect 
+              Results vary. Income claims represent potential, not guarantees. See income disclosure statement. 
             </p>
             <button
               onClick={() => scrollTo("contact")}
