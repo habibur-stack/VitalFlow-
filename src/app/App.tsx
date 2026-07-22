@@ -1036,7 +1036,7 @@ export default function App() {
               onClick={() => scrollTo("contact")}
               className="group inline-flex items-center gap-2.5 px-8 py-4 rounded-2xl bg-emerald-600 hover:bg-emerald-500 text-white font-semibold transition-all duration-200 shadow-xl shadow-emerald-900/40 hover:-translate-y-0.5"
             >
-              Schedule Your Discovery Call  the id have m uise 
+              Schedule Your Discovery Call
               <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
             </button>
           </Reveal>
