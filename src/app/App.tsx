@@ -1200,7 +1200,7 @@ export default function App() {
                   <Play className="w-6 h-6 text-white fill-white ml-0.5" />
                 </div>
                 <p className="text-white font-semibold text-sm tracking-wide">
-                  Watch Our Community Story the reality so improved i knw that use kase so far 
+                  Watch Our Community Story
                 </p>
               </div>
             </div>
