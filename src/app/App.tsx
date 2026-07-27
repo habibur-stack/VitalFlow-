@@ -1200,7 +1200,7 @@ export default function App() {
                   <Play className="w-6 h-6 text-white fill-white ml-0.5" />
                 </div>
                 <p className="text-white font-semibold text-sm tracking-wide">
-                  Watch Our Community Story
+                  Watch Our Community Story sty thi n o i cam 
                 </p>
               </div>
             </div>
