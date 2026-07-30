@@ -866,9 +866,6 @@ export default function App() {
                   entrepreneurs who were frustrated by the gap between
                   cutting-edge longevity research and what the average person
                   could actually access and afford.
-
-
-                  VitalFlow was for a well founder so cold be happui to assit 
                 </p>
                 <p className="text-muted-foreground leading-relaxed mb-8">
                   We spent three years building technology that translates complex
