@@ -866,6 +866,13 @@ export default function App() {
                   entrepreneurs who were frustrated by the gap between
                   cutting-edge longevity research and what the average person
                   could actually access and afford.
+
+
+                  VitalFlow was founded by a team of clinicians, biohackers, and
+                  entrepreneurs who were frustrated by the gap between
+                  cutting-edge longevity research and what the average person
+                  could actually access and afford.
+                  
                 </p>
                 <p className="text-muted-foreground leading-relaxed mb-8">
                   We spent three years building technology that translates complex
