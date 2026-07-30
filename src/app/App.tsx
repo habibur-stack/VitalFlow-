@@ -869,7 +869,7 @@ export default function App() {
 
 
                   VitalFlow was founded by a team of clinicians, biohackers, and
-                  entrepreneurs who were frustrat
+                  entrepreneurs w
                   could actually access and afford.
                   
                 </p>
