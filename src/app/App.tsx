@@ -868,7 +868,8 @@ export default function App() {
                   could actually access and afford.
 
 
-                  VitalFlow was fou
+                  VitalFlow was fouam of clinicians, biohackers, and
+                  entrepreneurs who were frustrated by the
                 </p>
                 <p className="text-muted-foreground leading-relaxed mb-8">
                   We spent three years building technology that translates complex
