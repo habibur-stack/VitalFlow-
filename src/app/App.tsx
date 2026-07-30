@@ -868,9 +868,7 @@ export default function App() {
                   could actually access and afford.
 
 
-                  VitalFlow was founded by a team of clinicians, biohackers, and
-                  entrepreneurs w
-                  could actually access and afford.
+                  VitalFlow was
                   
                 </p>
                 <p className="text-muted-foreground leading-relaxed mb-8">
