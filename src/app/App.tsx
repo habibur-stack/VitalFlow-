@@ -872,6 +872,13 @@ export default function App() {
                   biomarker data into simple, actionable protocols — and a
                   community model that allows the most passionate advocates to
                   build meaningful businesses sharing it.
+
+
+
+                     We spent three years building technology that translates complex
+                  biomarker data into simple, actionable protocols — and a
+                  community model that allows the most passionate advocates to
+                  build meaningful businesses sharing it.
                 </p>
               </Reveal>
               <Reveal delay={0.2}>
