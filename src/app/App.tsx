@@ -875,8 +875,7 @@ export default function App() {
 
 
 
-                     We spent three mple, actionabld a
-                  community model that allows the
+                     We spent thresrtvw er 5t
               </Reveal>
               <Reveal delay={0.2}>
                 <div className="space-y-4">
