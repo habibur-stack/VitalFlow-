@@ -876,7 +876,7 @@ export default function App() {
 
 
                      We spent three years building technology that translates complex
-                  biomarker data into simple, actionable protocols — and a
+                  biomarker data into simple, actionabld a
                   community model that allows the
               </Reveal>
               <Reveal delay={0.2}>
