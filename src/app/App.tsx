@@ -875,8 +875,7 @@ export default function App() {
 
 
 
-                     We spent thresrtvw er 5t
-              </Reveal>
+                     We spent 
               <Reveal delay={0.2}>
                 <div className="space-y-4">
                   {[
