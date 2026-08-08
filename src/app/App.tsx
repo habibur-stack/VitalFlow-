@@ -990,8 +990,7 @@ export default function App() {
               believe in and a community that has your back from day one.
 
 
-               No storefront. No inventory. No cold calls. Just a product you
-              believe in and a community that has your back from day one.
+            
             </p>
           </Reveal>
 
