@@ -1207,10 +1207,7 @@ export default function App() {
                 <p className="text-white font-semibold text-sm tracking-wide">
                   Watch Our Community Story. its a antry gravity 
 
-                        Watch Our Community Story. its a antry gravity
-
-                              Watch Our Community
-                </p>
+                   
               </div>
             </div>
           </Reveal>
