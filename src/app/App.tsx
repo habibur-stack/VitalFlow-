@@ -1209,7 +1209,7 @@ export default function App() {
 
                         Watch Our Community Story. its a antry gravity
 
-                              Watch Our Community Story. its a antry gravity      Watch Our Community Story. its a antry gravity      Watch Our Community Story. its a antry gravity
+                              Watch Our Community Story. its a antry gravity      Watch Our Community Stgravity
                 </p>
               </div>
             </div>
