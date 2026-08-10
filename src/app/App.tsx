@@ -1238,12 +1238,7 @@ export default function App() {
                     by our most successful members.
 
 
-                    rkers to track, and a 90-day protocol used
-                    by our most successful members.
-
-
-                    rkers to track, and a 90-day protocol used
-                    by our most successful members.
+                    
                   </p>
 
                   {leadDone ? (
