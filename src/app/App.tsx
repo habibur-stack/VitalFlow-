@@ -1249,6 +1249,12 @@ export default function App() {
                       <p className="font-bold mb-1">Check your inbox!</p>
                       <p className="text-white/70 text-sm">
                         Your free guide is on its way.
+                        vai tl
+
+
+                        vai tl
+
+                        vai tlvai tlvai tlvai tlvai tlvai tlvai tlvai tlvai tlvai tlvai tlvai tl
                       </p>
                     </div>
                   ) : (
