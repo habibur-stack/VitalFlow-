@@ -1204,8 +1204,10 @@ export default function App() {
                 <div className="w-16 h-16 rounded-full bg-white/20 backdrop-blur-sm border border-white/30 flex items-center justify-center group-hover:scale-110 transition-transform shadow-xl">
                   <Play className="w-6 h-6 text-white fill-white ml-0.5" />
                 </div>
-                <p className="text-white font-semibold text-sm tracking-wide">
-                  Watch Our Community Story.
+                <p className="text-white font-semibold text-sm tracking-wide">        Watch Our Community Story.</p>
+           
+
+                
                    
               </div>
             </div>
@@ -1265,7 +1267,7 @@ export default function App() {
                       }}
                       className="space-y-3"
                     >
-                      {[
+                      {[ 
                         { name: "name" as const, placeholder: "Your full name", type: "text" },
                         { name: "email" as const, placeholder: "Your email address", type: "email" },
                         { name: "phone" as const, placeholder: "Your phone (optional)", type: "tel" },
