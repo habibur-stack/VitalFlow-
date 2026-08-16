@@ -1460,6 +1460,15 @@ export default function App() {
                     <p className="text-muted-foreground max-w-xs">
                       We'll be in touch within 2 hours. Check your inbox for a
                       confirmation.
+
+                      'll be in touch within 2 hours. Check your inbox for a
+                      confirmation.
+
+                      'll be in touch within 2 hours. Check your inbox for a
+                      confirmation.
+
+                      'll be in touch within 2 hours. Check your inbox for a
+                      confirmation.
                     </p>
                   </div>
                 ) : (
