@@ -1555,8 +1555,6 @@ export default function App() {
                     <p className="text-center text-muted-foreground text-xs">
                       No spam. No sales pressure. Just a genuine conversation.
 
-                        N
-
                     </p>
                   </form>
                 )}
